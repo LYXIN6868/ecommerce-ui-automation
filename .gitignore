@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 环境变量
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# 日志和截图
+logs/*.log
+screenshot/*.png
+
+# 测试结果
+.pytest_cache/
+allure-results/
+allure-report/
+report/
